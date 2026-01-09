@@ -1,5 +1,5 @@
 {
-  "description": "A high-end pixel art sprite sheet animator featuring AI-powered frame detection, interactive workspace, and client-side GIF generation.",
+  "description": "A high-end pixel art sprite sheet animator featuring onion skinning, APNG decoding/encoding, and a dedicated preview mode.",
   "requestFramePermissions": [],
-  "name": "App"
+  "name": "Pixel Pulse APNG Studio"
 }
